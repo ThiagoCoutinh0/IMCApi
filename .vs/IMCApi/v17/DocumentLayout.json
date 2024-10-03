@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\077289\\Downloads\\IMCApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B9A6CF-3944-45BF-8A76-6940EECCFE33}|IMCApi\\IMCApi.csproj|c:\\users\\077289\\downloads\\imcapi\\imcapi\\controllers\\receitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B9A6CF-3944-45BF-8A76-6940EECCFE33}|IMCApi\\IMCApi.csproj|solutionrelative:imcapi\\controllers\\receitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B9A6CF-3944-45BF-8A76-6940EECCFE33}|IMCApi\\IMCApi.csproj|c:\\users\\077289\\downloads\\imcapi\\imcapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B9A6CF-3944-45BF-8A76-6940EECCFE33}|IMCApi\\IMCApi.csproj|solutionrelative:imcapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B9A6CF-3944-45BF-8A76-6940EECCFE33}|IMCApi\\IMCApi.csproj|c:\\users\\077289\\downloads\\imcapi\\imcapi\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B9A6CF-3944-45BF-8A76-6940EECCFE33}|IMCApi\\IMCApi.csproj|solutionrelative:imcapi\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receita.cs",
+              "DocumentMoniker": "C:\\Users\\077289\\Downloads\\IMCApi\\IMCApi\\Receita.cs",
+              "RelativeDocumentMoniker": "IMCApi\\Receita.cs",
+              "ToolTip": "C:\\Users\\077289\\Downloads\\IMCApi\\IMCApi\\Receita.cs",
+              "RelativeToolTip": "IMCApi\\Receita.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:02:23.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceitaController.cs",
+              "DocumentMoniker": "C:\\Users\\077289\\Downloads\\IMCApi\\IMCApi\\Controllers\\ReceitaController.cs",
+              "RelativeDocumentMoniker": "IMCApi\\Controllers\\ReceitaController.cs",
+              "ToolTip": "C:\\Users\\077289\\Downloads\\IMCApi\\IMCApi\\Controllers\\ReceitaController.cs",
+              "RelativeToolTip": "IMCApi\\Controllers\\ReceitaController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:02:23.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\077289\\Downloads\\IMCApi\\IMCApi\\Program.cs",
+              "RelativeDocumentMoniker": "IMCApi\\Program.cs",
+              "ToolTip": "C:\\Users\\077289\\Downloads\\IMCApi\\IMCApi\\Program.cs",
+              "RelativeToolTip": "IMCApi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:02:23.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
